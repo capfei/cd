@@ -1,8 +1,7 @@
 name: "Check for conflicts"
 on:
-  pull_request_target:
-      branches:
-        - main
+  # So that PRs touching the same files as the push are updated
+  push:
 
 jobs:
   main:
