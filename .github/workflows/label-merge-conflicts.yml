@@ -12,6 +12,4 @@ jobs:
         with:
           dirtyLabel: "merge conflict"
           repoToken: "${{ secrets.GITHUB_TOKEN }}"
-          commentOnClean: |
-            @${{github.actor}}
-            Conflicts have been resolved, release can now continue.
+          commentOnClean: "@${{github.actor}}, conflicts have been resolved."
