@@ -16,5 +16,5 @@ jobs:
           dirtyLabel: "merge conflict"
           repoToken: "${{ secrets.GITHUB_TOKEN }}"
           commentOnClean: |
-            @${{github.actor}{
+            @${{github.actor}}
             Conflicts have been resolved. :thumbsup:
