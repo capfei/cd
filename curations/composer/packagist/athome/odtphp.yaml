@@ -8,6 +8,10 @@ revisions:
     files:
       - license: LGPL-2.1-or-later
         path: Listeur-odtphp-9f31202/library/zip/pclzip/pclzip.lib.php
+  '1.4':
+    files:
+      - license: LGPL-2.1-or-later
+        path: Listeur-odtphp-9f31202/library/zip/pclzip/pclzip.lib.php
   '1.5':
     files:
       - license: LGPL-2.1-or-later
