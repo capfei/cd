@@ -1,0 +1,18 @@
+coordinates:
+  name: play-services-tasks
+  namespace: com.google.android.gms
+  provider: mavengoogle
+  type: maven
+revisions:
+  15.0.1:
+    licensed:
+      declared: OTHER
+  16.0.1:
+    licensed:
+      declared: OTHER
+  17.0.0:
+    licensed:
+      declared: OTHER
+  17.2.1:
+    licensed:
+      declared: OTHER

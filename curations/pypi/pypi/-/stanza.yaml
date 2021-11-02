@@ -1,0 +1,29 @@
+coordinates:
+  name: stanza
+  provider: pypi
+  type: pypi
+revisions:
+  '0.3':
+    licensed:
+      declared: Apache-2.0
+  1.0.0:
+    licensed:
+      declared: Apache-2.0
+  1.0.0rc0:
+    licensed:
+      declared: Apache-2.0
+  1.0.1:
+    licensed:
+      declared: Apache-2.0
+  1.1.1:
+    licensed:
+      declared: Apache-2.0
+  '1.2':
+    licensed:
+      declared: Apache-2.0
+  1.2.1:
+    licensed:
+      declared: Apache-2.0
+  1.2.3:
+    licensed:
+      declared: Apache-2.0

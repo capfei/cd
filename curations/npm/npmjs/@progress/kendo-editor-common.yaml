@@ -1,0 +1,15 @@
+coordinates:
+  name: kendo-editor-common
+  namespace: '@progress'
+  provider: npmjs
+  type: npm
+revisions:
+  0.6.1:
+    licensed:
+      declared: OTHER
+  1.1.5:
+    licensed:
+      declared: OTHER
+  1.1.6:
+    licensed:
+      declared: OTHER

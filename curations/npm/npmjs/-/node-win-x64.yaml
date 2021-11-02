@@ -1,0 +1,20 @@
+coordinates:
+  name: node-win-x64
+  provider: npmjs
+  type: npm
+revisions:
+  10.16.3:
+    licensed:
+      declared: NONE
+  12.14.1:
+    licensed:
+      declared: NONE
+  12.18.0:
+    licensed:
+      declared: NONE
+  12.6.0:
+    licensed:
+      declared: NONE
+  14.16.1:
+    licensed:
+      declared: NONE

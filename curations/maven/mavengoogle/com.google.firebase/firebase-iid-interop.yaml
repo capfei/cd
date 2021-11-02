@@ -1,0 +1,12 @@
+coordinates:
+  name: firebase-iid-interop
+  namespace: com.google.firebase
+  provider: mavengoogle
+  type: maven
+revisions:
+  16.0.1:
+    licensed:
+      declared: OTHER
+  17.1.0:
+    licensed:
+      declared: OTHER

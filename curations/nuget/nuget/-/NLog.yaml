@@ -81,6 +81,9 @@ revisions:
   4.4.0:
     licensed:
       declared: BSD-3-Clause
+  4.4.1:
+    licensed:
+      declared: BSD-3-Clause
   4.4.10:
     licensed:
       declared: BSD-3-Clause
@@ -197,6 +200,12 @@ revisions:
   4.7.0:
     licensed:
       declared: BSD-3-Clause
+  4.7.10:
+    licensed:
+      declared: BSD-3-Clause
+  4.7.11:
+    licensed:
+      declared: BSD-3-Clause
   4.7.2:
     licensed:
       declared: BSD-3-Clause
@@ -207,6 +216,18 @@ revisions:
     licensed:
       declared: BSD-3-Clause
   4.7.5:
+    licensed:
+      declared: BSD-3-Clause
+  4.7.6:
+    licensed:
+      declared: BSD-3-Clause
+  4.7.7:
+    licensed:
+      declared: BSD-3-Clause
+  4.7.8:
+    licensed:
+      declared: BSD-3-Clause
+  4.7.9:
     licensed:
       declared: BSD-3-Clause
   5.0.0-beta05:

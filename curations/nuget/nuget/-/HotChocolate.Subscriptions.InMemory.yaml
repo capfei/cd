@@ -1,0 +1,17 @@
+coordinates:
+  name: HotChocolate.Subscriptions.InMemory
+  provider: nuget
+  type: nuget
+revisions:
+  11.0.9:
+    licensed:
+      declared: MIT
+  11.2.1:
+    licensed:
+      declared: MIT
+  11.3.1:
+    licensed:
+      declared: MIT
+  11.3.5:
+    licensed:
+      declared: MIT

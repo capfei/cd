@@ -1,0 +1,35 @@
+coordinates:
+  name: Selenium.WebDriver.MSEdgeDriver
+  provider: nuget
+  type: nuget
+revisions:
+  85.0.564.41:
+    licensed:
+      declared: OTHER
+  87.0.669:
+    licensed:
+      declared: OTHER
+  88.0.705.56:
+    licensed:
+      declared: OTHER
+  89.0.774.76:
+    licensed:
+      declared: OTHER
+  90.0.818.42:
+    licensed:
+      declared: OTHER
+  90.0.818.66:
+    licensed:
+      declared: OTHER
+  92.0.902.62:
+    licensed:
+      declared: OTHER
+  92.0.902.73:
+    licensed:
+      declared: OTHER
+  94.0.986:
+    licensed:
+      declared: OTHER
+  94.0.992.38:
+    licensed:
+      declared: OTHER

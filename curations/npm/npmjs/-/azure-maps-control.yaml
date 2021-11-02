@@ -1,0 +1,26 @@
+coordinates:
+  name: azure-maps-control
+  provider: npmjs
+  type: npm
+revisions:
+  2.0.25:
+    licensed:
+      declared: OTHER
+  2.0.29:
+    licensed:
+      declared: OTHER
+  2.0.31:
+    licensed:
+      declared: OTHER
+  2.0.32:
+    licensed:
+      declared: OTHER
+  2.1.1:
+    licensed:
+      declared: OTHER
+  2.1.4:
+    licensed:
+      declared: OTHER
+  2.1.5:
+    licensed:
+      declared: OTHER

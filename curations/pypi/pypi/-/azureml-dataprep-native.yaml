@@ -3,7 +3,16 @@ coordinates:
   provider: pypi
   type: pypi
 revisions:
+  13.1.0:
+    licensed:
+      declared: OTHER
+  13.2.0:
+    licensed:
+      declared: OTHER
   14.1.0:
+    licensed:
+      declared: OTHER
+  14.2.0:
     licensed:
       declared: OTHER
   14.2.1:
@@ -18,6 +27,15 @@ revisions:
   20.1.0:
     licensed:
       declared: OTHER
+  20.1.1:
+    licensed:
+      declared: OTHER
+  21.0.1:
+    licensed:
+      declared: OTHER
+  21.0.3:
+    licensed:
+      declared: OTHER
   22.0.0:
     licensed:
       declared: OTHER
@@ -27,4 +45,30 @@ revisions:
   24.0.0:
     licensed:
       declared: OTHER
-  
+  26.0.0:
+    licensed:
+      declared: OTHER
+  27.0.0:
+    licensed:
+      declared: OTHER
+  28.0.0:
+    licensed:
+      declared: OTHER
+  29.0.0:
+    licensed:
+      declared: OTHER
+  30.0.0:
+    licensed:
+      declared: OTHER
+  32.0.0:
+    licensed:
+      declared: OTHER
+  33.0.0:
+    licensed:
+      declared: OTHER
+  36.0.0:
+    licensed:
+      declared: OTHER
+  38.0.0:
+    licensed:
+      declared: OTHER

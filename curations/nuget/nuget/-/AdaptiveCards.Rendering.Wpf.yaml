@@ -15,3 +15,12 @@ revisions:
   1.1.2:
     licensed:
       declared: MIT
+  2.5.1:
+    licensed:
+      declared: OTHER
+  2.6.0:
+    licensed:
+      declared: OTHER
+  2.7.1:
+    licensed:
+      declared: OTHER

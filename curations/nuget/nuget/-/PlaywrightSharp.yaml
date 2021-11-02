@@ -1,0 +1,11 @@
+coordinates:
+  name: PlaywrightSharp
+  provider: nuget
+  type: nuget
+revisions:
+  0.180.0:
+    licensed:
+      declared: MIT
+  0.192.0:
+    licensed:
+      declared: MIT

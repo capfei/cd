@@ -5,4 +5,16 @@ coordinates:
 revisions:
   7.2.1:
     licensed:
+      declared: CC0-1.0
+  7.2.2:
+    licensed:
+      declared: CC0-1.0
+  7.3.1:
+    licensed:
+      declared: CC0-1.0
+  8.1.6:
+    licensed:
+      declared: OTHER AND MIT
+  8.4.2:
+    licensed:
       declared: OTHER

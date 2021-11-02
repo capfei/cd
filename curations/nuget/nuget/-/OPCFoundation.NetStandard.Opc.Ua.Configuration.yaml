@@ -1,0 +1,23 @@
+coordinates:
+  name: OPCFoundation.NetStandard.Opc.Ua.Configuration
+  provider: nuget
+  type: nuget
+revisions:
+  1.4.365.2:
+    licensed:
+      declared: OTHER
+  1.4.365.48:
+    licensed:
+      declared: OTHER
+  1.4.366.38:
+    licensed:
+      declared: OTHER
+  1.4.367.39:
+    licensed:
+      declared: OTHER
+  1.4.367.41:
+    licensed:
+      declared: OTHER
+  1.4.367.42:
+    licensed:
+      declared: OTHER

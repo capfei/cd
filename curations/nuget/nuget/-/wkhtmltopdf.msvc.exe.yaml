@@ -1,0 +1,11 @@
+coordinates:
+  name: wkhtmltopdf.msvc.exe
+  provider: nuget
+  type: nuget
+revisions:
+  1.0.0:
+    licensed:
+      declared: LGPL-3.0-or-later
+  1.0.8:
+    licensed:
+      declared: LGPL-3.0-or-later

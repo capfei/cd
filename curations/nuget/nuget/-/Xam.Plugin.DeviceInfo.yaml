@@ -1,0 +1,14 @@
+coordinates:
+  name: Xam.Plugin.DeviceInfo
+  provider: nuget
+  type: nuget
+revisions:
+  2.0.2:
+    licensed:
+      declared: MIT
+  3.0.2:
+    licensed:
+      declared: MIT
+  4.0.0.13:
+    licensed:
+      declared: MIT
