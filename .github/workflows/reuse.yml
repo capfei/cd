@@ -1,0 +1,16 @@
+name: REUSE Compliance Check
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: REUSE Compliance Check
+      uses: ./
+      with:
+        args: --include-submodules lint
