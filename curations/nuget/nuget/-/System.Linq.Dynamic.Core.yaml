@@ -6,6 +6,9 @@ revisions:
   1.0.12:
     licensed:
       declared: Apache-2.0
+  1.0.18:
+    licensed:
+      declared: Apache-2.0
   1.0.19:
     described:
       sourceLocation:
@@ -18,5 +21,8 @@ revisions:
     licensed:
       declared: Apache-2.0
   1.0.20:
+    licensed:
+      declared: Apache-2.0
+  1.0.8.16:
     licensed:
       declared: Apache-2.0
