@@ -14,7 +14,7 @@ jobs:
     name: Cleanup
     steps:
       - name: Delete old branches
-        uses: phpdocker-io/github-actions-delete-abandoned-branches@v1
+        uses: phpdocker-io/github-actions-delete-abandoned-branches@Releases/v1.0.6
         id: delete_stuff
         with:
           github_token: ${{ github.token }}
