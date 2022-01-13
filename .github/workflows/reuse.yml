@@ -13,4 +13,5 @@ jobs:
     - name: REUSE Compliance Check
       uses: ./
       with:
-        args: --include-submodules lint
+        path: ./curations/**
+        args: lint, spdx
