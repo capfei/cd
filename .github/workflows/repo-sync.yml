@@ -13,9 +13,9 @@ jobs:
       with:
         persist-credentials: false
     - name: repo-sync
-      uses: repo-sync/github-sync@v2
+      uses: repo-sync/github-sync@master
       with:
         source_repo: "clearlydefined/curated-data"
-        source_branch: "*"
-        destination_branch: "*"
+        source_branch: "master"
+        destination_branch: "master"
         github_token: ${{ secrets.PAT }}
