@@ -4,6 +4,33 @@ coordinates:
   provider: mavencentral
   type: maven
 revisions:
+  42.3.2:
+    files:
+      - attributions:
+          - 'Copyright (c) 1997, PostgreSQL Global Development Group'
+        license: BSD-2-Clause
+        path: META-INF/LICENSE
+  42.3.3:
+    files:
+      - attributions:
+          - 'Copyright (c) 1997, PostgreSQL Global Development Group'
+        license: BSD-2-Clause
+        path: META-INF/LICENSE
   9.3-1102-jdbc41:
+    licensed:
+      declared: BSD-3-Clause
+  9.4-1201-jdbc41:
+    licensed:
+      declared: PostgreSQL
+  9.4.1207.jre7:
+    licensed:
+      declared: BSD-3-Clause
+  9.4.1208.jre7:
+    licensed:
+      declared: BSD-3-Clause
+  9.4.1211.jre7:
+    licensed:
+      declared: BSD-3-Clause
+  9.4.1212:
     licensed:
       declared: BSD-2-Clause

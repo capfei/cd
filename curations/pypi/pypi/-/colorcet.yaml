@@ -1,0 +1,14 @@
+coordinates:
+  name: colorcet
+  provider: pypi
+  type: pypi
+revisions:
+  2.0.2:
+    licensed:
+      declared: CC-BY-4.0
+  2.0.6:
+    licensed:
+      declared: CC-BY-4.0
+  3.0.0:
+    licensed:
+      declared: CC-BY-4.0

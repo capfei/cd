@@ -3,6 +3,24 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  100.0.1185.36:
+    licensed:
+      declared: OTHER
+  100.0.1185.50:
+    licensed:
+      declared: OTHER
+  101.0.1210.47:
+    licensed:
+      declared: OTHER
+  102.0.1245.14-pre:
+    licensed:
+      declared: OTHER
+  103.0.1264.37:
+    licensed:
+      declared: OTHER
+  103.0.1264.62:
+    licensed:
+      declared: OTHER
   85.0.564.41:
     licensed:
       declared: OTHER
@@ -34,5 +52,17 @@ revisions:
     licensed:
       declared: OTHER
   95.0.1020.30:
+    licensed:
+      declared: OTHER
+  96.0.1054.26:
+    licensed:
+      declared: OTHER
+  97.0.1072.55:
+    licensed:
+      declared: OTHER
+  98.0.1108.56:
+    licensed:
+      declared: OTHER
+  99.0.1150.46:
     licensed:
       declared: OTHER

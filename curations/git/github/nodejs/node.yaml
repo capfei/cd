@@ -19,13 +19,16 @@ revisions:
           - 'Copyright (c) 2007, 2008 gnombat@users.sourceforge.net'
         license: GPL-3.0
         path: doc/sh_main.js
+  40ecd5601193c316e62e9216e8a4259130686208:
+    licensed:
+      declared: MIT
   64219741218aa87e259cf8257596073b8e747f0a:
     files:
       - attributions:
           - ' * Copyright (c) 1998-2018 The OpenSSL Project.  All rights reserved.'
         license: OpenSSL
         path: src/node_crypto.cc
-      - attributions:        
+      - attributions:
           - 'Copyright (c) Mathias Bynens <https://mathiasbynens.be/>'
         license: MIT
         path: benchmark/misc/punycode.js
@@ -102,6 +105,9 @@ revisions:
         license: Apache-2.0
         path: deps/v8/test/mjsunit/asm/embenchen/lua_binarytrees.js
   7e463500b2483c084d1dbc016806d6f1092ddabf:
+    licensed:
+      declared: MIT
+  acb71eab779fb56bf70e8a9e0cb2e82a089a87de:
     licensed:
       declared: MIT
   b0e5f195dfce3e2b99f5091373d49f6616682596:

@@ -1,0 +1,12 @@
+coordinates:
+  name: jai-imageio-jpeg2000
+  namespace: com.github.jai-imageio
+  provider: mavencentral
+  type: maven
+revisions:
+  1.3.0:
+    licensed:
+      declared: BSD-3-Clause-No-Nuclear-License
+  1.4.0:
+    licensed:
+      declared: BSD-3-Clause-No-Nuclear-License

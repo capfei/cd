@@ -18,6 +18,12 @@ revisions:
   2.1.1:
     licensed:
       declared: OTHER
+  2.1.10:
+    licensed:
+      declared: OTHER
+  2.1.15:
+    licensed:
+      declared: OTHER
   2.1.4:
     licensed:
       declared: OTHER
@@ -25,5 +31,8 @@ revisions:
     licensed:
       declared: OTHER
   2.1.6:
+    licensed:
+      declared: OTHER
+  2.1.8:
     licensed:
       declared: OTHER

@@ -156,3 +156,21 @@ revisions:
   0.82.0:
     licensed:
       declared: Apache-2.0
+  0.86.0:
+    licensed:
+      declared: Apache-2.0
+  1.10.0:
+    licensed:
+      declared: Apache-2.0
+  1.11.1:
+    licensed:
+      declared: Apache-2.0
+  1.6.0:
+    licensed:
+      declared: Apache-2.0
+  1.7.0:
+    licensed:
+      declared: Apache-2.0
+  1.8.1:
+    licensed:
+      declared: Apache-2.0

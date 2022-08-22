@@ -1,0 +1,11 @@
+coordinates:
+  name: ui
+  provider: npmjs
+  type: npm
+revisions:
+  0.0.0:
+    licensed:
+      declared: NONE
+  0.1.0:
+    licensed:
+      declared: NONE

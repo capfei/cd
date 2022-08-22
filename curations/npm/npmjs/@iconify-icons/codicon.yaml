@@ -1,0 +1,18 @@
+coordinates:
+  name: codicon
+  namespace: '@iconify-icons'
+  provider: npmjs
+  type: npm
+revisions:
+  1.1.30:
+    licensed:
+      declared: CC-BY-4.0
+  1.2.4:
+    licensed:
+      declared: CC-BY-4.0
+  1.2.6:
+    licensed:
+      declared: CC-BY-4.0
+  1.2.8:
+    licensed:
+      declared: CC-BY-4.0

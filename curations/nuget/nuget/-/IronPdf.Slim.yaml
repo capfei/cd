@@ -3,6 +3,12 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  2021.12.4495:
+    licensed:
+      declared: OTHER
   2021.9.3678:
+    licensed:
+      declared: OTHER
+  2022.1.4599:
     licensed:
       declared: OTHER

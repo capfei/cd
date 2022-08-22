@@ -667,6 +667,9 @@ revisions:
   8.36.1:
     licensed:
       declared: Apache-2.0
+  8.36.2:
+    licensed:
+      declared: Apache-2.0
   '8.4':
     licensed:
       declared: Apache-2.0
@@ -691,6 +694,9 @@ revisions:
   '9.4':
     licensed:
       declared: Apache-2.0
+  9.4.1:
+    licensed:
+      declared: Apache-2.0
   9.5.1:
     licensed:
       declared: Apache-2.0
@@ -698,5 +704,8 @@ revisions:
     licensed:
       declared: Apache-2.0
   '9.7':
+    licensed:
+      declared: Apache-2.0
+  9.9.1:
     licensed:
       declared: Apache-2.0

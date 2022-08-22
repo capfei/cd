@@ -13,6 +13,9 @@ revisions:
   07df6a141424dd6d29861ecbf37b2c07bd30cca1:
     licensed:
       declared: BSD-3-Clause AND OTHER
+  0981d6026fa6241c75c6949829b5bd7a2574ad55:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
   0d417f6369309be088e227ead8736fb722d759d3:
     licensed:
       declared: BSD-3-Clause AND OTHER
@@ -56,6 +59,9 @@ revisions:
     licensed:
       declared: BSD-3-Clause AND OTHER
   5766fd39f98ddd8d769ad4aedcee557dd28de90f:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  59db8d763f22395595c26ee1cae0886b57141b3a:
     licensed:
       declared: BSD-3-Clause AND OTHER
   5cba982894dd4e8879e3ef0a0c308ceff39f6154:
@@ -148,6 +154,9 @@ revisions:
   d5e6a3e2c0ae16fc7480523ebcb7fd4dd3215489:
     licensed:
       declared: BSD-3-Clause AND OTHER
+  d61c044b1678dd399c134e065f64eee6b231e119:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
   d9b008d0a637a6daa9d387171bc2d206f4de1691:
     licensed:
       declared: BSD-3-Clause AND OTHER
@@ -167,6 +176,9 @@ revisions:
     licensed:
       declared: BSD-3-Clause AND OTHER
   e0c6998df7e52453d088b8dd1eb22ee43ba6b718:
+    licensed:
+      declared: BSD-3-Clause AND OTHER
+  ebe580a85c4094482133940983c6d766aefb1942:
     licensed:
       declared: BSD-3-Clause AND OTHER
   eeed37f84f13f52d35e095e8023ba65671ff86a1:

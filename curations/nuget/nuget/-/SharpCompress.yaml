@@ -41,6 +41,9 @@ revisions:
   0.28.2:
     licensed:
       declared: MIT
+  0.28.3:
+    licensed:
+      declared: MIT
   0.29.0:
     licensed:
       declared: MIT
@@ -48,5 +51,8 @@ revisions:
     licensed:
       declared: MIT
   0.30.1:
+    licensed:
+      declared: MIT
+  0.31.0:
     licensed:
       declared: MIT

@@ -1,0 +1,21 @@
+coordinates:
+  name: trees_2.13
+  namespace: org.scalameta
+  provider: mavencentral
+  type: maven
+revisions:
+  4.4.33:
+    licensed:
+      declared: BSD-3-Clause
+  4.5.0:
+    licensed:
+      declared: BSD-3-Clause
+  4.5.3:
+    licensed:
+      declared: BSD-3-Clause
+  4.5.7:
+    licensed:
+      declared: BSD-3-Clause
+  4.5.9:
+    licensed:
+      declared: BSD-3-Clause

@@ -3,6 +3,15 @@ coordinates:
   provider: pypi
   type: pypi
 revisions:
+  2.11.1:
+    licensed:
+      declared: GPL-2.0-or-later
+  2.14.1:
+    licensed:
+      declared: GPL-2.0-or-later
+  2.14.5:
+    licensed:
+      declared: GPL-2.0-or-later
   2.3.0:
     files:
       - attributions:
@@ -26,6 +35,9 @@ revisions:
           - Copyright (c) 2013 Benedikt Morbach <benedikt.morbach@googlemail.com>
         license: GPL-2.0-only
         path: pylint-2.3.0/setup.py
+    licensed:
+      declared: GPL-2.0-only
+  2.3.1:
     licensed:
       declared: GPL-2.0-only
   2.4.4:

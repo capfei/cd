@@ -3,6 +3,9 @@ coordinates:
   provider: pypi
   type: pypi
 revisions:
+  '10':
+    licensed:
+      declared: BSD-3-Clause
   2.0.0beta:
     licensed:
       declared: BSD-3-Clause
@@ -186,6 +189,9 @@ revisions:
   3.18.0:
     licensed:
       declared: BSD-3-Clause
+  3.18.0rc1:
+    licensed:
+      declared: BSD-3-Clause
   3.18.1:
     licensed:
       declared: BSD-3-Clause
@@ -201,6 +207,9 @@ revisions:
   3.19.3:
     licensed:
       declared: BSD-3-Clause
+  3.19.4:
+    licensed:
+      declared: BSD-3-Clause
   3.2.0:
     licensed:
       declared: BSD-3-Clause
@@ -211,6 +220,12 @@ revisions:
     licensed:
       declared: BSD-3-Clause
   3.2.0rc2:
+    licensed:
+      declared: BSD-3-Clause
+  3.20.0:
+    licensed:
+      declared: BSD-3-Clause
+  3.20.1:
     licensed:
       declared: BSD-3-Clause
   3.3.0:
@@ -271,5 +286,23 @@ revisions:
     licensed:
       declared: BSD-3-Clause
   4.0.0rc2:
+    licensed:
+      declared: BSD-3-Clause
+  4.21.0:
+    licensed:
+      declared: BSD-3-Clause
+  4.21.1:
+    licensed:
+      declared: BSD-3-Clause
+  4.21.2:
+    licensed:
+      declared: BSD-3-Clause
+  4.21.3:
+    licensed:
+      declared: BSD-3-Clause
+  4.21.4:
+    licensed:
+      declared: BSD-3-Clause
+  4.21.5:
     licensed:
       declared: BSD-3-Clause
