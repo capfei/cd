@@ -3,12 +3,18 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  5.5.10:
+    licensed:
+      declared: AGPL-3.0-only
   5.5.11:
     licensed:
       declared: AGPL-3.0-only
   5.5.13:
     licensed:
       declared: AGPL-3.0-only
+  5.5.13.1:
+    licensed:
+      declared: AGPL-3.0-only OR OTHER
   5.5.13.2:
     licensed:
       declared: AGPL-3.0-only OR OTHER

@@ -1,0 +1,8 @@
+coordinates:
+  name: VSSDK.Shell.10
+  provider: nuget
+  type: nuget
+revisions:
+  10.0.3:
+    licensed:
+      declared: NONE

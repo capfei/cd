@@ -1,0 +1,14 @@
+coordinates:
+  name: Microsoft.TestPlatform.TestHost
+  provider: nuget
+  type: nuget
+revisions:
+  16.9.4:
+    licensed:
+      declared: OTHER
+  17.1.0:
+    licensed:
+      declared: OTHER
+  17.2.0:
+    licensed:
+      declared: OTHER

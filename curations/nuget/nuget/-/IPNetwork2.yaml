@@ -312,6 +312,9 @@ revisions:
   2.5.366:
     licensed:
       declared: BSD-2-Clause
+  2.5.376:
+    licensed:
+      declared: BSD-2-Clause
   2.5.386:
     licensed:
       declared: BSD-2-Clause
@@ -325,5 +328,14 @@ revisions:
     licensed:
       declared: BSD-2-Clause
   2.6.437:
+    licensed:
+      declared: BSD-2-Clause
+  2.6.467:
+    licensed:
+      declared: BSD-2-Clause
+  2.6.472:
+    licensed:
+      declared: BSD-2-Clause
+  2.6.508:
     licensed:
       declared: BSD-2-Clause

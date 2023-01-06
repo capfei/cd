@@ -3,6 +3,12 @@ coordinates:
   provider: nuget
   type: nuget
 revisions:
+  2.5.0:
+    licensed:
+      declared: NONE
+  2.6.0:
+    licensed:
+      declared: NONE
   2.7.0:
     licensed:
       declared: NONE

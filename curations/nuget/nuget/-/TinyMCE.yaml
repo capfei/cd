@@ -30,6 +30,9 @@ revisions:
   4.9.2:
     licensed:
       declared: LGPL-2.1-only
+  5.1.2:
+    licensed:
+      declared: LGPL-2.1-only OR OTHER
   5.10.1:
     licensed:
       declared: LGPL-2.1-only OR OTHER
@@ -43,5 +46,8 @@ revisions:
     licensed:
       declared: LGPL-2.1-only
   6.0.1:
+    licensed:
+      declared: MIT
+  6.1.0:
     licensed:
       declared: MIT

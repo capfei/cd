@@ -1,0 +1,12 @@
+coordinates:
+  name: api
+  namespace: google.golang.org
+  provider: golang
+  type: go
+revisions:
+  v0.72.0:
+    licensed:
+      declared: BSD-3-Clause
+  v0.77.0:
+    licensed:
+      declared: BSD-3-Clause

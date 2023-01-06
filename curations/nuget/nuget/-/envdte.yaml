@@ -12,6 +12,9 @@ revisions:
   17.0.0-previews-3-31605-261:
     licensed:
       declared: OTHER
+  17.0.0-previews-4-31709-430:
+    licensed:
+      declared: OTHER
   17.0.31902.203:
     licensed:
       declared: OTHER
@@ -22,5 +25,14 @@ revisions:
     licensed:
       declared: OTHER
   17.2.32505.113:
+    licensed:
+      declared: OTHER
+  17.3.32622.426:
+    licensed:
+      declared: OTHER
+  17.3.32804.24:
+    licensed:
+      declared: OTHER
+  17.4.33103.184:
     licensed:
       declared: OTHER
