@@ -1,0 +1,27 @@
+name: Merge Bot
+
+on:
+  pull_request:
+    types:
+      - unlabeled
+  pull_request_review:
+    types:
+      - dismissed
+      - submitted
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    name: Merge
+    steps:
+    - name: Integration check
+      uses: squalrus/merge-bot@master
+      with:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        test: true
+        reviewers: true
+        labels: 
+        blocking_labels: feedback requested
+        checks_enabled: true
+        method: merge
+        delete_source_branch: true
