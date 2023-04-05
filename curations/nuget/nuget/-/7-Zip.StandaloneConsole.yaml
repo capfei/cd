@@ -6,3 +6,6 @@ revisions:
   21.7.0:
     licensed:
       declared: LGPL-2.1-or-later
+  22.1.0:
+    licensed:
+      declared: LGPL-2.1-or-later
