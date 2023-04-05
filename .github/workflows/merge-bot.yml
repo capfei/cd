@@ -15,12 +15,12 @@ jobs:
     name: Merge
     steps:
     - name: Integration check
-      uses: squalrus/merge-bot@v0.1.0
+      uses: squalrus/merge-bot@master
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         test: true
         reviewers: true
-        labels: ""
+        labels: 
         blocking_labels: feedback requested
         checks_enabled: true
         method: merge
